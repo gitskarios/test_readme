@@ -1,4 +1,3 @@
-<?php
 
 /**
  * ReportingCloud PHP Wrapper
